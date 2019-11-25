@@ -1,5 +1,7 @@
 # pwa_offline
 
+Slides: https://docs.google.com/presentation/d/1WwZTjtcM0FXMtlT7Z6t_LLTOg-_St-8LXW8D0EJCjXo/edit?usp=sharing
+
 Demo: https://pwa-caching-sample-app.herokuapp.com/
 
 #### 1. Initialize service worked from js/app.js
