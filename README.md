@@ -53,7 +53,7 @@ self.addEventListener('activate', evt => {
 ```
 
 #### c) Listen - you can create fectch event intermediator here, and bases on the business logic cache the data
-
+```
 self.addEventListener('fetch', evt => {
   //console.log('fetch event', evt);
   evt.respondWith(
@@ -72,7 +72,7 @@ self.addEventListener('fetch', evt => {
       } 
     })
   );
-
+```
 
 Also we can show fallback page, if client fails to fetch contents from the server
 
